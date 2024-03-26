@@ -42,7 +42,7 @@ enableGitInfo = true
   weight = 10
 
 [params]
-  # TODO: FIX !!! (Optional, default dark) Sets color theme: light or dark.
+  # (Optional, default dark) Sets color theme: light or dark.
   BookTheme = 'dark'
 
   # (Optional, default true) Controls table of contents visibility on right side of pages.
