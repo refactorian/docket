@@ -1,0 +1,24 @@
+@import "defaults";
+@import "variables";
+@import "mode";
+
+:root {
+    @include theme-dark;
+}
+[data-theme="light"] {
+    @include theme-light;
+}
+
+@import "normalize";
+@import "utils";
+@import "main";
+@import "fonts";
+@import "print";
+
+@import "markdown";
+@import "shortcodes";
+
+@import "plugins/scrollbars";
+
+// Custom defined styles
+@import "custom";
