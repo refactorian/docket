@@ -1,0 +1,3 @@
+[submodule "themes/docket"]
+	path = themes/docket
+	url = https://github.com/refactorian/docket
