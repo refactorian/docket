@@ -4,11 +4,12 @@
 
 .book-search {
     flex: 1;
+    margin: 0 !important;
 }
 
 .theme-mode-toggle-wrapper {
     display: table;
-    margin: 1rem 0 0 5px;
+    margin: 0 !important;
 }
 
 .theme-mode-toggle {
