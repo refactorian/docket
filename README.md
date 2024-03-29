@@ -36,21 +36,9 @@ Navigate to your hugo project root and run:
 git submodule add https://github.com/refactorian/docket themes/docket
 ```
 
-### Creating site from scratch
+### Create from a template
 
-Below is an example on how to create a new site from scratch:
-
-```sh
-hugo new site mydocs
-cd mydocs
-git init
-git submodule add https://github.com/refactorian/docket themes/docket
-cp -R themes/docket/exampleSite/content.en/* ./content
-```
-
-```sh
-hugo server --minify --theme docket
-```
+https://github.com/refactorian/docketize
 
 ## Configuration
 
