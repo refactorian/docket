@@ -2,7 +2,7 @@
 
 📖 Simple | 🛠️ Functional | ✨ Elegant | 💥 Powerful | 🎨 Stylish | 📱 Responsive
 
-![Screenshot](https://github.com/refactorian/docket/blob/main/images/screenshot.png)
+[<img src="https://github.com/refactorian/docket/blob/main/images/screenshot.png">](https://refactorian.github.io/docket)
 
 Docket - Hugo Documentation Theme | [Live Preview](https://refactorian.github.io/docket)
 
