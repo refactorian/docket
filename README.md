@@ -223,13 +223,13 @@ In fact almost empty not quite empty because an empty file looks like absent for
 
 ## Shortcodes
 
-- [Buttons](https://hugo-book-demo.netlify.app/docs/shortcodes/buttons/)
-- [Columns](https://hugo-book-demo.netlify.app/docs/shortcodes/columns/)
-- [Details](https://hugo-book-demo.netlify.app/docs/shortcodes/details/)
-- [Hints](https://hugo-book-demo.netlify.app/docs/shortcodes/hints/)
-- [KaTeX](https://hugo-book-demo.netlify.app/docs/shortcodes/katex/)
-- [Mermaid](https://hugo-book-demo.netlify.app/docs/shortcodes/mermaid/)
-- [Tabs](https://hugo-book-demo.netlify.app/docs/shortcodes/tabs/)
+- [Buttons](https://refactorian.github.io/docket/docs/shortcodes/buttons/)
+- [Columns](https://refactorian.github.io/docket/docs/shortcodes/columns/)
+- [Details](https://refactorian.github.io/docket/docs/shortcodes/details/)
+- [Hints](https://refactorian.github.io/docket/docs/shortcodes/hints/)
+- [KaTeX](https://refactorian.github.io/docket/docs/shortcodes/katex/)
+- [Mermaid](https://refactorian.github.io/docket/docs/shortcodes/mermaid/)
+- [Tabs](https://refactorian.github.io/docket/docs/shortcodes/tabs/)
 
 By default, Goldmark trims unsafe outputs which might prevent some shortcodes from rendering. It is recommended to set `markup.goldmark.renderer.unsafe=true` if you encounter problems.
 
