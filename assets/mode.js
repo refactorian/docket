@@ -1,4 +1,8 @@
 if (typeof (Storage) !== 'undefined') {
+    themeMode();
+}
+
+function themeMode() {
     let html = document.documentElement;
     let themeMode = localStorage.getItem('themeMode') || html.getAttribute('data-theme');
 

@@ -30,7 +30,7 @@ $hint-colors: (
 
 // Themes
 @mixin theme-light {
-  --gray-100: #f1f1f1;
+  --gray-100: #fafafa;
   --gray-200: #e9ecef;
   --gray-500: #adb5bd;
 
@@ -40,7 +40,7 @@ $hint-colors: (
   --body-background: white;
   --body-font-color: black;
 
-  --menu-color: #fafafa;
+  --menu-color: #eeeeee;
   --icon-filter: none;
 
   --hint-color-info: #6bf;
