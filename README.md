@@ -242,13 +242,15 @@ If you are using `config.yaml` or `config.json`, consult the [configuration mark
 
 ## Versioning
 
-This theme follows a simple incremental versioning. e.g. `v1`, `v2` and so on. There might be breaking changes between versions.
+This theme follows a simple incremental versioning. e.g. `v1.0`, `v2.0` and so on. There might be breaking changes between versions.
 
 If you want lower maintenance, use one of the released versions. If you want to live on the bleeding edge of changes, you can use the `main` branch and update your website when needed.
 
 ## Contributing
 
-Docket is expected to evolve over time. I intend to keep adding features and making changes as required. Feel free to get in touch with any issues or suggestions for new features you'd like to see.
+Docket is expected to evolve over time. I intend to keep adding features and making changes as required. 
+
+Feel free to get in touch with any issues or suggestions for new features you'd like to see.
 
 - 🐞 **Bug reports & issues:** Use [GitHub Issues](https://github.com/refactorian/docket/issues)
 - 💡 **Ideas for new features:** Open a discussion on [GitHub Discussions](https://github.com/refactorian/docket/discussions)
