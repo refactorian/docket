@@ -4,10 +4,10 @@
 name = "docket"
 license = "MIT"
 licenselink = "https://github.com/refactorian/docket/blob/master/LICENSE"
-description = "Hugo documentation theme as simple as plain book"
+description = "Docket - Hugo Documentation Theme"
 homepage = "https://github.com/refactorian/docket"
 demosite = "https://refactorian.github.io/docket"
-tags = ["responsive", "clean", "documentation", "docs", "flexbox", "search", "mobile", "multilingual", "disqus"]
+tags = ["responsive", "clean", "documentation", "docs", "blog", "dark", "flexbox", "search", "mobile", "multilingual", "disqus", "giscus"]
 features = []
 min_version = "0.112.0"
 
